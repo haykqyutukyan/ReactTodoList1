@@ -1,0 +1,17 @@
+.form input {
+  width: 80%;
+  height: 40px;
+  border: none;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.form .addBtn {
+  width: 15%;
+  height: 40px;
+  margin-left: 10px;
+  color: rgb(104, 104, 104);
+  background-color: rgb(205, 205, 205);
+  border: none;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}/*# sourceMappingURL=TodoForm.css.map */
